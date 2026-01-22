@@ -1,0 +1,2 @@
+# Loan_prediction_linear_polynomial_rbf_kernals
+teck-works Day_22
